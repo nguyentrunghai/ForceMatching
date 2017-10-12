@@ -469,19 +469,19 @@ c
 c
       stop
       end
-c      include '1.introduction.f'
-c      include '2.read_pip_chj_qmmm_order.f'
-c      include '3.electro_matrix.f'
-c      include '4.least_square.f'
-c      include '5.write_charge.f'
-c      include '6.nonbonded_forces_cal.f'
-c      include '7.bond_angle_dihedral_type.f'
-c      include '8.equilibrium_values.f'
-c      include '9.bond_angle_dihedr_function.f'
-c      include '10.force_bon_ang_dih_imp.f'
-c      include '11.bonded_matrix_build.f'
-c      include '12.equivalent_atom_charges.f'
-c      include '13.relative_standard_deviation.f'
-c      include '14.write_bonded_parameters.f'
+c      include 'introduction.f'
+c      include 'read_pip_chj_qmmm_order.f'
+c      include 'electro_matrix.f'
+c      include 'least_square.f'
+c      include 'write_charge.f'
+c      include 'nonbonded_forces_cal.f'
+c      include 'bond_angle_dihedral_type.f'
+c      include 'equilibrium_values.f'
+c      include 'bond_angle_dihedr_function.f'
+c      include 'force_bon_ang_dih_imp.f'
+c      include 'bonded_matrix_build.f'
+c      include 'equivalent_atom_charges.f'
+c      include 'relative_standard_deviation.f'
+c      include 'write_bonded_parameters.f'
 
 
