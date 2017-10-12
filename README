@@ -1,0 +1,7 @@
+
+compile:
+ifort -o fm.x *.f
+
+run:
+./fm.x
+
