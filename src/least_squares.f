@@ -99,6 +99,8 @@ c
       return
       end
 c
+c I copied H12 from http://www.netlib.org/lawson-hanson/all 
+c
 C###################################################
 C     SUBROUTINE H12 (MODE,LPIVOT,L1,M,U,IUE,UP,C,ICE,ICV,NCV)  
 C   

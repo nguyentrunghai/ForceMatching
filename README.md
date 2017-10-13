@@ -6,7 +6,7 @@ The results were published in this research paper [2].
 
 It reads outputs from a QM/MM simulation using the CPMD code (http://www.cpmd.org) including MD trajectory, 
 forces acting on each of QM atoms and a series of electrostatic grids along the trajectory.
-Then it performs least squares fitting to obtain both non-bonded and bonded parameters for QM atoms.
+Then it performs least squares [3, 4] fitting to obtain both non-bonded and bonded parameters for QM atoms.
 See the references for more details.
 
 It runs iteractively. See Example directory for example input files.
@@ -26,4 +26,9 @@ References
     J. Chem. Theory Comput., 2012, 8 (8), pp 2912–2920
     DOI: 10.1021/ct300167m
 
+[3] Charles L. Lawson and Richard J. Hanson
+    SOLVING LEAST SQUARES PROBLEMS
+    Prentice-HalL, 1974.
 
+[4] I copied the subroutine H12 from 
+    http://www.netlib.org/lawson-hanson/all
