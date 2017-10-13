@@ -9,20 +9,20 @@ forces acting on each of QM atoms and a series of electrostatic grids along the 
 Then it performs least squares [3, 4] fitting to obtain both non-bonded and bonded parameters for QM atoms.
 See the references for more details.
 
-It runs iteractively. See Example directory for example input files.
+It runs interactively. See Example directory for example input files.
 
 References
 
 [1] Patrick Maurer, Alessandro Laio, Håkan W. Hugosson, Maria Carola Colombo, and Ursula Rothlisberger
-    Automated Parametrization of Biomolecular Force Fields from Quantum Mechanics/Molecular Mechanics (QM/MM)
-    Simulations through Force Matching
+    "Automated Parametrization of Biomolecular Force Fields from Quantum Mechanics/Molecular Mechanics (QM/MM)
+    Simulations through Force Matching"
     J. Chem. Theory Comput., 2007, 3 (2), pp 628–639
     DOI: 10.1021/ct600284f
 
 [2] Trung Hai Nguyen, Fabio Arnesano, Simone Scintilla, Giulia Rossetti, Emiliano Ippoliti, 
     Paolo Carloni, and Giovanni Natile
-    Structural Determinants of Cisplatin and Transplatin Binding to the Met-Rich Motif of Ctr1:
-    A Computational Spectroscopy Approach
+    "Structural Determinants of Cisplatin and Transplatin Binding to the Met-Rich Motif of Ctr1:
+    A Computational Spectroscopy Approach"
     J. Chem. Theory Comput., 2012, 8 (8), pp 2912–2920
     DOI: 10.1021/ct300167m
 
@@ -32,3 +32,4 @@ References
 
 [4] I copied the subroutine H12 from 
     http://www.netlib.org/lawson-hanson/all
+
