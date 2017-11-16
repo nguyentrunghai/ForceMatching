@@ -18,6 +18,7 @@ References
     Simulations through Force Matching"
     J. Chem. Theory Comput., 2007, 3 (2), pp 628–639
     DOI: 10.1021/ct600284f
+    http://pubs.acs.org/doi/abs/10.1021/ct600284f
 
 [2] Trung Hai Nguyen, Fabio Arnesano, Simone Scintilla, Giulia Rossetti, Emiliano Ippoliti, 
     Paolo Carloni, and Giovanni Natile
@@ -25,6 +26,7 @@ References
     A Computational Spectroscopy Approach"
     J. Chem. Theory Comput., 2012, 8 (8), pp 2912–2920
     DOI: 10.1021/ct300167m
+    http://pubs.acs.org/doi/abs/10.1021/ct300167m
 
 [3] Charles L. Lawson and Richard J. Hanson
     SOLVING LEAST SQUARES PROBLEMS
